@@ -22,3 +22,13 @@
 云南[电信]  20.205.243.166 [新加坡 微软云]  300
 ```
 
+G
+
+4）复制地址到   `C:\Windows\System32\drivers\etc\hosts`中
+
+```properties
+github.com 20.205.243.166
+github.com 20.205.243.166
+github.com 20.205.243.166
+```
+
